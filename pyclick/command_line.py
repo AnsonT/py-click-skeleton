@@ -13,3 +13,6 @@ def test():
 def test2():
     """ Test2 Command """
     click.echo("test2")
+
+def test3():
+    print('testing')

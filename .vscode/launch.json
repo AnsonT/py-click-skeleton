@@ -4,6 +4,8 @@
   // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
+
+
     {
       "name": "Python: Current File (Integrated Terminal)",
       "type": "python",
@@ -16,9 +18,9 @@
       "name": "Python: Module",
       "type": "python",
       "request": "launch",
-      "module": "py-click",
-      "args": ["--verbose"],
+      "module": "pyclick",
+      "args": ["test2"],
       "console": "integratedTerminal"
-    },
+    }
   ]
 }
