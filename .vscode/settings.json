@@ -5,4 +5,5 @@
   "python.unitTest.unittestEnabled": false,
   "python.unitTest.pyTestEnabled": false,
   "python.unitTest.nosetestsEnabled": true,
+  "python.unitTest.autoTestDiscoverOnSaveEnabled": true
 }
